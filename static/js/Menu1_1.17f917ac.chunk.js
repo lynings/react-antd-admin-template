@@ -1,0 +1,1 @@
+(this.webpackJsonpreact_admin_template=this.webpackJsonpreact_admin_template||[]).push([[22],{1337:function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a);t.default=function(){return c.a.createElement("h1",null,"Menu1-1")}}}]);
